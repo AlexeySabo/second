@@ -22,4 +22,7 @@ echo $post['login'].' '.$post['pass'];
 $i=$i+1;
 $array[] = " {$post['login']} {$post['pass']}";
 echo $i;
+
+
+//comment
 ?>
