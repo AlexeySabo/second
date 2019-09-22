@@ -24,6 +24,6 @@ $array[] = " {$post['login']} {$post['pass']}";
 echo $i;
 
 
-//comment
+//comment ggg
 //comment
 ?>
